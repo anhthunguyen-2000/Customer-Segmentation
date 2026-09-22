@@ -33,16 +33,6 @@ A single marketing strategy can overlook differences in customer spending, purch
 - Visualized RFM distributions, segment sizes, and category purchasing patterns.
 - Presented recommendations for marketing and future recommendation-system development.
 
-## Files
-
-Upload the two supplied files with the following names so these links work:
-
-| File | Contents |
-| --- | --- |
-| [customer_segmentation.ipynb](customer_segmentation.ipynb) | Python workflow, saved outputs, and charts |
-| [customer_segmentation.pdf] | 17-slide presentation in Vietnamese |
-| [README.md](README.md) | Project documentation |
-
 ## Data inputs
 
 The notebook downloads an Olist folder through `gdown` and reads six CSV files:

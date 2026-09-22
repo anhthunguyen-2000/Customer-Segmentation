@@ -40,7 +40,7 @@ Upload the two supplied files with the following names so these links work:
 | File | Contents |
 | --- | --- |
 | [customer_segmentation.ipynb](customer_segmentation.ipynb) | Python workflow, saved outputs, and charts |
-| [customer_segmentation_presentation.pptx](customer_segmentation_presentation.pptx) | 17-slide presentation in Vietnamese |
+| [customer_segmentation.pdf] | 17-slide presentation in Vietnamese |
 | [README.md](README.md) | Project documentation |
 
 ## Data inputs
